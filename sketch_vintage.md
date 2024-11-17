@@ -119,3 +119,4 @@ A colorful stick bouncing around.
 #### Potential changes:
 
 - Use the `random()` or `noise()` functions to make the movement or color changes random.
+- You can watch [this tutorial from The Coding Train](https://www.youtube.com/watch?v=nfmV2kuQKwA&list=PLPrhS0jDJbmxPXKj60YPRs04V_nqCPyZ4&index=7) to get an idea about randomness and also a great example how doing errors can be fun, entertaining and educational.
